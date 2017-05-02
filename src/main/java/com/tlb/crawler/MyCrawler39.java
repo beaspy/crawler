@@ -70,7 +70,7 @@ public class MyCrawler39 extends WebCrawler {
 
 		CrawlConfig config = new CrawlConfig();
 		config.setCrawlStorageFolder(crawlStorageFolder);
-		config.setPolitenessDelay(0); //延迟
+		config.setPolitenessDelay(0);  //延迟
 		//config.setMaxDepthOfCrawling(5);
 		
 		/*
